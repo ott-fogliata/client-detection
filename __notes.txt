@@ -1,0 +1,1 @@
+## set logs folder with ~777 permissions
